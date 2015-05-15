@@ -1,7 +1,7 @@
 Random choice
 ===============
 
-This Android application provide you can import dan input data and randomly choose one.
+This Android application provide you can import data and randomly choose one.
 
 You have two ways to input data.
 1. Import from the csv file.
