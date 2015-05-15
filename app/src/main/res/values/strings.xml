@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Random Choice</string>
+    <string name="action_import">Import CSV</string>
+    <string name="action_input">Input items</string>
+    <string name="action_clear">Clear current list</string>
+    <string name="action_random">Choose one!</string>
+    <string name="action_ok">OK</string>
+    <string name="action_enter">Enter</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_yes">Yes</string>
+    <string name="action_no">No</string>
+    <string name="delete_information">Did you want to delete the content: </string>
+    <string name="input_reminder">Input the content:</string>
+    <string name="list_is_empty">Your list is empty!</string>
+    <string name="result">Result</string>
+    <string name="choose_csv">Choose a CSV</string>
+    <string name="install_information">Please install ASUS File Manager.</string>
+    <string name="file_is_error">Your file is error.</string>
+</resources>

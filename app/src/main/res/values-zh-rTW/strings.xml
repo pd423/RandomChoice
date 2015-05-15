@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">我幫你選一個</string>
+    <string name="action_import">匯入CSV檔案</string>
+    <string name="action_input">手動輸入內容</string>
+    <string name="action_clear">清除清單所有資料</string>
+    <string name="action_random">選一個！</string>
+    <string name="action_ok">好</string>
+    <string name="action_enter">確認</string>
+    <string name="action_finish">完成</string>
+    <string name="action_delete">刪除</string>
+    <string name="action_yes">是</string>
+    <string name="action_no">否</string>
+    <string name="delete_information">你確定要刪除這個資料：</string>
+    <string name="input_reminder">輸入內容：</string>
+    <string name="list_is_empty">你的清單是空的！</string>
+    <string name="result">選擇結果</string>
+    <string name="choose_csv">選擇一個CSV檔案</string>
+    <string name="install_information">請安裝檔案管理應用程式</string>
+    <string name="file_is_error">你選擇的檔案是錯誤的。</string>
+</resources>
